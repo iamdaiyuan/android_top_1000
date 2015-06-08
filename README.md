@@ -1,6 +1,5 @@
 List of Android Top 1000 Libraries
 ==============================
-![Project status](art/project_maintained.png)
 
 A curated list of awesome Android Top 1000 libraries.
 
@@ -11,7 +10,7 @@ A curated list of awesome Android Top 1000 libraries.
 Name | Demo
 ---  | ---
 |[nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)|
-|<img src='https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/sample/src/main/res/drawable-mdpi/ic_launcher.png' width='49%'><img src='https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/UniversalImageLoader.png' width='49%'><img src='https://lh3.ggpht.com/csXEddxiLgQ6FxckefjQnP1PVugbaAYOdcuTa3vVtGV1PlWbFu2dYggoH8rI1w2RdEz1=w50' width='49%'><img src='http://mobway.in/image/apk.png' width='49%'><img src='https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/wiki/UIL_Flow.png' width='49%'>|
+|<img src='https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/UniversalImageLoader.png' width='49%'><img src='https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/wiki/UIL_Flow.png' width='49%'>|
 |[jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)|
 ||
 |[google/iosched](https://github.com/google/iosched)|
@@ -21,7 +20,7 @@ Name | Demo
 |[forkhubs/android](https://github.com/forkhubs/android)|
 ||
 |[libgdx/libgdx](https://github.com/libgdx/libgdx)|
-|<img src='http://libgdx.badlogicgames.com/img/logo.png' width='49%'><img src='http://libgdx.badlogicgames.com/img/robovm.png' width='49%'><img src='http://libgdx.badlogicgames.com/img/spine.png' width='49%'><img src='http://libgdx.badlogicgames.com/img/saikoa.png' width='49%'><img src='http://libgdx.badlogicgames.com/img/intel.png' width='49%'><img src='http://libgdx.badlogicgames.com/img/excelsior.png' width='49%'><img src='http://libgdx.badlogicgames.com/img/nextpeer.png' width='49%'>|
+|<img src='http://libgdx.badlogicgames.com/img/logo.png' width='49%'>|
 |[loopj/android-async-http](https://github.com/loopj/android-async-http)|
 ||
 |[square/picasso](https://github.com/square/picasso)|
@@ -63,7 +62,7 @@ Name | Demo
 |[square/dagger](https://github.com/square/dagger)|
 ||
 |[gabrielemariotti/cardslib](https://github.com/gabrielemariotti/cardslib)|
-|<img src='https://github.com//gabrielemariotti/cardslib/raw/master/demo/images/cardsv2_small.png' width='49%'><img src='https://github.com//gabrielemariotti/cardslib/raw/master/demo/images/demo_gplay.png' width='49%'><img src='https://github.com//gabrielemariotti/cardslib/raw/master/demo/images/g+64.png' width='49%'><img src='https://github.com/gabrielemariotti/cardslib/raw/master/demo/images/g+64.png' width='49%'><img src='https://github.com/gabrielemariotti/cardslib/raw/master/demo/images/twitter64.png' width='49%'><img src='https://github.com/gabrielemariotti/cardslib/raw/master/demo/images/linkedin.png' width='49%'>|
+|<img src='https://github.com//gabrielemariotti/cardslib/raw/master/demo/images/cardsv2_small.png' width='49%'>|
 |[etsy/AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)|
 |<img src='http://f.cl.ly/items/2z1B0Y0M0G0O2k1l3J03/Trending.png' width='49%'>|
 |[ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)|
@@ -95,7 +94,7 @@ Name | Demo
 |[facebook/stetho](https://github.com/facebook/stetho)|
 ||
 |[nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine)|
-|<img src='http://www.andengine.org/donate/bitcoin_16x16.png' width='49%'><img src='http://www.andengine.org/donate/bitcoin_wallet.png' width='49%'>|
+||
 |[keyboardsurfer/Crouton](https://github.com/keyboardsurfer/Crouton)|
 |<img src='https://raw.github.com/keyboardsurfer/Crouton/master/sample/src/main/res/drawable-xhdpi/ic_launcher.png' width='49%'><img src='https://github.com/keyboardsurfer/Crouton/raw/master/res/Alert.png' width='49%'><img src='https://github.com/keyboardsurfer/Crouton/raw/master/res/Confirm.png' width='49%'><img src='https://github.com/keyboardsurfer/Crouton/raw/master/res/Info.png' width='49%'>|
 |[greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)|
@@ -105,7 +104,7 @@ Name | Demo
 |[cyrilmottier/GreenDroid](https://github.com/cyrilmottier/GreenDroid)|
 |<img src='http://lh4.ggpht.com/_OHO4y8YcQbs/TQFWEpSo-UI/AAAAAAAAMpc/DzAbSkhOx3I/s800/greendroid_logo.png' width='49%'><img src='http://lh4.ggpht.com/_OHO4y8YcQbs/TQFQZTft6OI/AAAAAAAAMpY/hAloaii6kRA/s288/gd7.png' width='49%'><img src='https://lh6.googleusercontent.com/-DuebAvhlkYo/Ted7VA4WzoI/AAAAAAAAMvc/fs9IRD4ZtgU/s288/gd8.png' width='49%'><img src='https://lh6.googleusercontent.com/-oQoXEMJcO0E/Ted7UeGFemI/AAAAAAAAMvY/HpfJVIVE6-4/s288/gd9.png' width='49%'><img src='http://lh6.ggpht.com/_OHO4y8YcQbs/TQFQTfazM2I/AAAAAAAAMpQ/lgPpIKImdZw/s288/gd5.png' width='49%'><img src='http://lh3.ggpht.com/_OHO4y8YcQbs/TQFQS5hyrKI/AAAAAAAAMpM/4hqL9y_tVgM/s288/gd4.png' width='49%'>|
 |[pardom/ActiveAndroid](https://github.com/pardom/ActiveAndroid)|
-|<img src='https://badge.waffle.io/pardom/ActiveAndroid.png' width='49%'>|
+||
 |[koush/AndroidAsync](https://github.com/koush/AndroidAsync)|
 ||
 |[wyouflf/xUtils](https://github.com/wyouflf/xUtils)|
@@ -117,7 +116,7 @@ Name | Demo
 |[makovkastar/FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)|
 |<img src='https://github.com//makovkastar/FloatingActionButton/raw/master/art/demo.gif' width='49%'><img src='https://lh4.ggpht.com/oA-y_Rnemgoii-kup0MHTU0MjB9YaogVfxFfd9hDgaBysVoe6VL1cg5iNVz2pZPCx6ss=w300-rw' width='49%'><img src='https://lh3.ggpht.com/j5j1fbjO2xqDoI0C4eaVjpQ4K6kxPcSSwOQS_4xihRPKqUKtt5ud1Jd60MAuogyrUQ=w300-rw' width='49%'><img src='https://lh6.ggpht.com/Z40eE1-2KhlE_rSpErTkn8gjU1EOITxTCxNTDWY6EjCi0NAoAN0aUaQ5afmxC-EZqKs=w300-rw' width='49%'><img src='https://lh6.ggpht.com/pTT1RebLeNJMH7pm9XgQtDWpm0azxOJ7dFYkZqAMT-QE1oi2OGor3qI1ZgiJze4uYvo=w300-rw' width='49%'><img src='https://lh3.ggpht.com/M-AwKN9xIbhoAkHZWEarCasxyNYjJt2gT3HS8ScGYbJWAUi2zSQ2K_tow8lsznB4XhQ=w300-rw' width='49%'><img src='https://lh5.ggpht.com/itn5l8TL7g7YJLi-4GlD7Sg4hI-yCZv0NX85S9l5cq8BtDHPYv60S3h3ta75Pjaerg=w300-rw' width='49%'><img src='https://lh6.ggpht.com/wzbvTDntUigvCBp-rZj61rhPuAIF0biycsxlOZveKA8zLKpYA9pIdqp4y0h8sYPqiA=w300-rw' width='49%'><img src='https://lh3.ggpht.com/wWyXUUfu1Ryl0mpLGZC66XZjg5SuKppPSM4rLEMV94aLcQy_3HsxsylAyxadEPOM11c8=w300-rw' width='49%'><img src='https://lh3.ggpht.com/Rf4wGr902RKyQxBgaw7uBglwMw8JvjKCgDwZWXAH91GOcd1fvBAHo2nT5J-Uvszlsg=w300-rw' width='49%'><img src='https://lh5.ggpht.com/lXmTtP_1u48UzqLHpeMlMp12SrtUx_otPkwH917W7Z6oL7gTSMI7Xj6tr6pYC5Vv5I8=w300-rw' width='49%'><img src='https://lh6.ggpht.com/HmBZeeZFeZ5m0AoYOK5Y2H1k8eqwa860ySNhJ_wF1AHAJlu9lxcAt8e2d8C8RWakjRY=w300-rw' width='49%'><img src='https://lh6.ggpht.com/3swb0k5GzAiZADacoSH14JUkWij9lj_Q78VjDEkwYRSmTY7NWV9artEoSr0Jt6Ew5gsX=w300-rw' width='49%'><img src='https://lh4.ggpht.com/0VAjMOZobMCMXeyynn1qUh3rOdHjIriqtNPRC7Vkm1pUKAPtIJy1ma5Y3xmGYxWwmkA=w300-rw' width='49%'><img src='https://lh4.ggpht.com/GC2GNlCoxHzFaE3SUFTMgKfUaMN32iOrEN8NqSUnQUNlIAMceaKyuYVNNo0j_k37LkM=w300-rw' width='49%'><img src='https://lh6.ggpht.com/SE4n_W1LSRHucyRLHyXwM76XlLZAsUr4awEokmQyWkCTscZJiu8rJuE1ygWp2m0zKA=w300-rw' width='49%'><img src='https://lh5.ggpht.com/i6rmn-yiLY97cP9X8URrbZghNEzaVRO3Un_z7vd6PGME88ViCo99g4lKas48XzNqgw=w300-rw' width='49%'><img src='https://lh5.ggpht.com/ehV6oywWQw4FkXMNL8SPWCUd73oywlHJt-3b4uOI4YkH2mJgQIQADE-2Js3yupkZUUs=w300-rw' width='49%'><img src='https://lh6.ggpht.com/qFqsjsT_olw1EHU34pdZO2sYGqyPZ-2Zney-qxs7mQovP5nPXKQrk56ygQh7QF9Shvk=w300-rw' width='49%'><img src='https://lh3.ggpht.com/T19LngArl__MPoTa6Q4R6mstrtHBwte_iElYbIUbZ2kkinTw53Qfhcjrqb9bggsPvpk=w300-rw' width='49%'><img src='https://lh5.ggpht.com/1-XPVeLHC3Re-IIzwQGpl4I1942YUyGoetCk5ex4VteAyKVqPanWw1N1BrvSpgrNEw=w300-rw' width='49%'><img src='https://lh6.ggpht.com/vwho8dbo-Pt5zTzVN6dPlu8Ckd7YUlnLb_0H-pX3jJUPpXCIJVJ9OBtFIovPh5WWN3qO=w300-rw' width='49%'><img src='https://lh4.ggpht.com/aq2DO3JI3TJNuwGQq5tsNU5REfuuFRHpLep_GYYq9wyo7kv650dRNqfPoi5H3Z7d4g=w300-rw' width='49%'><img src='https://lh4.ggpht.com/Ed_Bg9DLCUX-wzqOk9TC5iABpvyOvf206kSpaUY4k8RjioiFqEnp2XjazWOW1vr0vewp=w300-rw' width='49%'><img src='https://lh4.ggpht.com/VUqcWsh2BCZy45GOVo-RJSCb6rRp7xgIOOSBrgW5nARN19yrahw6cxl51wUt-Z2h7PM=w300-rw' width='49%'><img src='https://lh3.ggpht.com/TGCTXOfDdpjM9pVqRI83vIx3Tr0fGBPNC1_LdM5lUJPfwEyPvi9vwIAN5R2CasYmDvpT=w300-rw' width='49%'><img src='https://lh4.ggpht.com/WQQE2mgVTOVQv665IUaTmh2-kTHjsopCo9t-CAp-fTRO2qzn5odBtS7lHbXnIoQlzh8=w300-rw' width='49%'><img src='https://lh5.ggpht.com/qMug_DQikDqd8nJE_sQ8wz6Ez3FjgGd_TvAtoY7cBRaPewIadf7VG1nSEqIek03Oaw=w300-rw' width='49%'><img src='https://lh4.ggpht.com/8ls_IEGuhiXx-qbjGz3E2RXAbKWSOKoCReVvymWkg6cDjq3bS7Ib1fT-pdvk1lPUug=w300' width='49%'><img src='https://lh3.googleusercontent.com/fqT88s0Yirnz5zBFaUfXLNUm-7FfAnCtUhSGeOSIAzb5wis6OJZq1AHQyXKO43uz8XY=w300-rw' width='49%'><img src='https://lh3.googleusercontent.com/Otw0zMoqG5GoxyrNTX2GmOArZB4_IvNfzSL0EuCjhf7lXWMi5TDlKCUOlt4Hl6QMZxtL=w300-rw' width='49%'>|
 |[ManuelPeinado/FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)|
-|<img src='https://raw.github.com/ManuelPeinado/FadingActionBar/master/art/readme_pic.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/twitter.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/google-plus.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/ManuelPeinado/FadingActionBar/master/art/readme_pic.png' width='49%'>|
 |[castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)|
 |<img src='https://github.com//castorflex/SmoothProgressBar/raw/master/screenshots/SPB_sample.gif' width='49%'>|
 |[johannilsson/android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)|
@@ -135,7 +134,7 @@ Name | Demo
 |[square/android-times-square](https://github.com/square/android-times-square)|
 |<img src='https://github.com//square/android-times-square/raw/master/timesSquareScreenshot.png' width='49%'>|
 |[ACRA/acra](https://github.com/ACRA/acra)|
-|<img src='https://ssl.gstatic.com/images/icons/gplus-32.png' width='49%'>|
+||
 |[Trinea/android-common](https://github.com/Trinea/android-common)|
 |<img src='http://farm8.staticflickr.com/7426/9456847893_053161c7a4_o.png' width='49%'><img src='http://farm3.staticflickr.com/2826/11928623406_b9e8d39bd7_o.png' width='49%'><img src='http://farm4.staticflickr.com/3775/11983355756_f8548f4c17_o.png' width='49%'><img src='http://farm8.staticflickr.com/7380/11982503045_b0538df5f5_o.png' width='49%'><img src='https://farm3.staticflickr.com/2930/14017948972_bafb6df1b5_o.png' width='49%'><img src='http://farm4.staticflickr.com/3710/9312163125_81f1c1997b_o.jpg' width='49%'><img src='http://farm3.staticflickr.com/2834/9314949798_ea69bdb5e8_o.jpg' width='49%'><img src='http://farm3.staticflickr.com/2843/12566457534_2cfa4297a1_o.jpg' width='49%'><img src='https://farm8.staticflickr.com/7336/13991252450_f1e154012d_o.png' width='49%'><img src='http://farm8.staticflickr.com/7376/9312162951_74b597ebaa_o.jpg' width='49%'><img src='http://farm8.staticflickr.com/7330/9321381014_fb404e2430_o.jpg' width='49%'><img src='http://farm3.staticflickr.com/2827/9321380982_d8619d1601_o.jpg' width='49%'><img src='http://farm4.staticflickr.com/3669/9459686814_1a523ceeb6_o.jpg' width='49%'><img src='http://www.trinea.cn/wp-content/uploads/2013/05/downloadDemo2.gif' width='49%'>|
 |[chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)|
