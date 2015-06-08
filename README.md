@@ -236,7 +236,7 @@ Name | Demo
 |[beworker/pinned-section-listview](https://github.com/beworker/pinned-section-listview)|
 |<img src='https://github.com//beworker/pinned-section-listview/raw/master/screen1.png' width='49%'><img src='https://github.com//beworker/pinned-section-listview/raw/master/screen2.png' width='49%'><img src='https://github.com//beworker/pinned-section-listview/raw/master/screen3.png' width='49%'>|
 |[kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)|
-|<img src='https://raw.github.com/kikoso/android-stackblur/master/art/screenshot1.png' width='49%'><img src='https://raw.github.com/kikoso/android-stackblur/master/art/screenshot2.png' width='49%'><img src='https://raw.github.com/kikoso/android-stackblur/master/art/twitter.png' width='49%'><img src='https://raw.github.com/kikoso/android-stackblur/master/art/google-plus.png' width='49%'><img src='https://raw.github.com/kikoso/android-stackblur/master/art/linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/kikoso/android-stackblur/master/art/screenshot1.png' width='49%'><img src='https://raw.github.com/kikoso/android-stackblur/master/art/screenshot2.png' width='49%'>|
 |[orhanobut/logger](https://github.com/orhanobut/logger)|
 |<img src='https://github.com/orhanobut/logger/raw/master/images/logger-logo.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/current-log.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/description.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/custom-tag.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/logger-log.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/two-method-with-thread-desc.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/one-method-with-thread.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/one-method-no-header.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/just-content.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/json-log.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/filter.png' width='49%'><img src='https://github.com/orhanobut/logger/raw/master/images/wrap-closed.png' width='49%'>|
 |[maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)|
@@ -306,7 +306,7 @@ Name | Demo
 |[Flowdalic/asmack](https://github.com/Flowdalic/asmack)|
 |<img src='https://www.ohloh.net/p/asmack/widgets/project_thin_badge.gif' width='49%'>|
 |[ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar)|
-|<img src='https://raw.github.com/ManuelPeinado/GlassActionBar/master/art/readme_pic.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/twitter.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/google-plus.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/ManuelPeinado/GlassActionBar/master/art/readme_pic.png' width='49%'>|
 |[romainguy/ViewServer](https://github.com/romainguy/ViewServer)|
 ||
 |[googlesamples/android-testing](https://github.com/googlesamples/android-testing)|
@@ -484,7 +484,7 @@ Name | Demo
 |[antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)|
 ||
 |[gabrielemariotti/RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)|
-|<img src='https://github.com//gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif' width='49%'><img src='https://github.com//gabrielemariotti/RecyclerViewItemAnimators/raw/master/assets/images/g+64.png' width='49%'><img src='https://github.com//gabrielemariotti/RecyclerViewItemAnimators/raw/master/assets/images/twitter64.png' width='49%'><img src='https://github.com//gabrielemariotti/RecyclerViewItemAnimators/raw/master/assets/images/linkedin.png' width='49%'>|
+|<img src='https://github.com//gabrielemariotti/RecyclerViewItemAnimators/raw/master/demo.gif' width='49%'>|
 |[roomorama/Caldroid](https://github.com/roomorama/Caldroid)|
 |<img src='https://raw.github.com/roomorama/Caldroid/master/screenshot/1.png' width='49%'><img src='https://raw.github.com/roomorama/Caldroid/master/screenshot/dark.png' width='49%'>|
 |[balysv/material-ripple](https://github.com/balysv/material-ripple)|
@@ -496,7 +496,7 @@ Name | Demo
 |[GDG-Korea/PinterestLikeAdapterView](https://github.com/GDG-Korea/PinterestLikeAdapterView)|
 |<img src='https://raw.github.com/GDG-Korea/PinterestLikeAdapterView/master/screenshot.png' width='49%'>|
 |[jpardogo/ListBuddies](https://github.com/jpardogo/ListBuddies)|
-|<img src='https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/google_play%20badge.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_twitter.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_google+.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/google_play%20badge.png' width='49%'>|
 |[expectedbehavior/gauges-android](https://github.com/expectedbehavior/gauges-android)|
 |<img src='http://img.skitch.com/20120709-kmtkmc3k3ib8tjym8eesxrs39r.png' width='49%'>|
 |[MizzleDK/Mizuu](https://github.com/MizzleDK/Mizuu)|
@@ -512,7 +512,7 @@ Name | Demo
 |[emilsjolander/sprinkles](https://github.com/emilsjolander/sprinkles)|
 |<img src='https://github.com/emilsjolander/sprinkles/raw/master/sprinkles.png' width='49%'>|
 |[ManuelPeinado/MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter)|
-|<img src='https://raw.github.com/ManuelPeinado/MultiChoiceAdapter/master/art/readme_pic.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/twitter.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/google-plus.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/ManuelPeinado/MultiChoiceAdapter/master/art/readme_pic.png' width='49%'>|
 |[RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)|
 ||
 |[sromku/android-simple-facebook](https://github.com/sromku/android-simple-facebook)|
@@ -538,7 +538,7 @@ Name | Demo
 |[LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)|
 |<img src='https://github.com/LitePalFramework/LitePal/raw/master/sample/src/main/logo/mini_logo.png' width='49%'><img src='http://www.gstatic.com/android/market_images/web/play_logo.png' width='49%'>|
 |[jpardogo/GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar)|
-|<img src='https://raw.github.com/jpardogo/ListBuddies/master/art/google_play%20badge.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_twitter.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_google+.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/jpardogo/ListBuddies/master/art/google_play%20badge.png' width='49%'>|
 |[mihaip/dex-method-counts](https://github.com/mihaip/dex-method-counts)|
 ||
 |[gabrielemariotti/androiddev](https://github.com/gabrielemariotti/androiddev)|
@@ -550,7 +550,7 @@ Name | Demo
 |[andkulikov/Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)|
 |<img src='http://habrastorage.org/getpro/habr/post_images/e93/37c/0da/e9337c0dacc355523adddf1545b57e5a.gif' width='49%'>|
 |[ManuelPeinado/RefreshActionItem](https://github.com/ManuelPeinado/RefreshActionItem)|
-|<img src='https://raw.github.com/ManuelPeinado/RefreshActionItem/master/art/readme_pic.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/twitter.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/google-plus.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/ManuelPeinado/RefreshActionItem/master/art/readme_pic.png' width='49%'>|
 |[flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)|
 |<img src='http://www.pictureshack.us/images/15526_KenBurnsView.gif' width='49%'><img src='https://lh6.ggpht.com/Lp1vxT8QfbbJ_-UNSU9_AUpCzg3ekf1hfiKs9zjadSKM3Jlbk2eUPps41GVlzWV-Xzw=w48' width='49%'><img src='https://lh3.ggpht.com/txlZ48RgPe8afIA39J-IqzSZqsbt2Dz3sht7YAqKbVTIoEi6e5KGG0s1NlIgwz8fQj-n=w48' width='49%'>|
 |[fyhertz/libstreaming](https://github.com/fyhertz/libstreaming)|
@@ -664,7 +664,7 @@ Name | Demo
 |[davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)|
 |<img src='http://davidschreiber.github.io/FancyCoverFlow/en_generic_rgb_wo_45.png' width='49%'><img src='http://davidschreiber.github.io/FancyCoverFlow/screenshot2.png' width='49%'>|
 |[jpardogo/FlabbyListView](https://github.com/jpardogo/FlabbyListView)|
-|<img src='http://i.imgur.com/ugCBHiH.gif](http://i.imgur.com/ugCBHiH.gif' width='49%'><img src='http://i.imgur.com/wfWGrBS.gif](http://i.imgur.com/wfWGrBS.gif' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/google_play%20badge.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_twitter.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_google+.png' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/ic_linkedin.png' width='49%'>|
+|<img src='http://i.imgur.com/ugCBHiH.gif](http://i.imgur.com/ugCBHiH.gif' width='49%'><img src='http://i.imgur.com/wfWGrBS.gif](http://i.imgur.com/wfWGrBS.gif' width='49%'><img src='https://raw.github.com/jpardogo/ListBuddies/master/art/google_play%20badge.png' width='49%'>|
 |[spring-projects/spring-android-samples](https://github.com/spring-projects/spring-android-samples)|
 ||
 |[yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache)|
@@ -766,7 +766,7 @@ Name | Demo
 |[afollestad/material-cab](https://github.com/afollestad/material-cab)|
 ||
 |[gabrielemariotti/changeloglib](https://github.com/gabrielemariotti/changeloglib)|
-|<img src='https://github.com//gabrielemariotti/changeloglib/raw/master/ChangeLogDemo/images/screen.png' width='49%'><img src='https://github.com/gabrielemariotti/changeloglib/raw/master/ChangeLogDemo/images/g+64.png' width='49%'><img src='https://github.com/gabrielemariotti/changeloglib/raw/master/ChangeLogDemo/images/twitter64.png' width='49%'><img src='https://github.com/gabrielemariotti/changeloglib/raw/master/ChangeLogDemo/images/linkedin.png' width='49%'>|
+|<img src='https://github.com//gabrielemariotti/changeloglib/raw/master/ChangeLogDemo/images/screen.png' width='49%'><img src='https://github.com/gabrielemariotti/changeloglib/raw/master/ChangeLogDemo/images/g+64.png' width='49%'><img src='https://github.com/gabrielemariotti/changeloglib/raw/master/ChangeLogDemo/images/linkedin.png' width='49%'>|
 |[DWorkS/VolleyPlus](https://github.com/DWorkS/VolleyPlus)|
 |<img src='https://github.com/DWorkS/VolleyPlus/raw/master/header.png' width='49%'>|
 |[OnlyInAmerica/GlanceReader](https://github.com/OnlyInAmerica/GlanceReader)|
@@ -1062,7 +1062,7 @@ Name | Demo
 |[JakeWharton/gradle-android-test-plugin](https://github.com/JakeWharton/gradle-android-test-plugin)|
 |<img src='http://i.imgur.com/8JsJXzn.jpg' width='49%'>|
 |[ManuelPeinado/ImageLayout](https://github.com/ManuelPeinado/ImageLayout)|
-|<img src='https://raw.github.com/ManuelPeinado/ImageLayout/master/art/readme_pic.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/twitter.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/google-plus.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/ManuelPeinado/ImageLayout/master/art/readme_pic.png' width='49%'>|
 |[rohaanhamid/ScrollableItemList](https://github.com/rohaanhamid/ScrollableItemList)|
 |<img src='http://i.imgur.com/9NPgfsN.gif' width='49%'>|
 |[petrnohejl/Android-Templates-And-Utilities](https://github.com/petrnohejl/Android-Templates-And-Utilities)|
@@ -1516,7 +1516,7 @@ Name | Demo
 |[cesarferreira/colorize](https://github.com/cesarferreira/colorize)|
 |<img src='https://raw.github.com/cesarferreira/colorize/master/extras/images/img_02.png?raw=true' width='49%'><img src='https://raw.github.com/cesarferreira/colorize/master/extras/images/terminal.gif?raw=true' width='49%'>|
 |[ManuelPeinado/NumericPageIndicator](https://github.com/ManuelPeinado/NumericPageIndicator)|
-|<img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/readme_pic.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/twitter.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/google-plus.png' width='49%'><img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/linkedin.png' width='49%'>|
+|<img src='https://raw.github.com/ManuelPeinado/NumericPageIndicator/master/art/readme_pic.png' width='49%'>|
 |[jitsi/jitsi-android](https://github.com/jitsi/jitsi-android)|
 ||
 |[googlecast/CastVideos-android](https://github.com/googlecast/CastVideos-android)|
